@@ -2,6 +2,8 @@
 
 Code Repository for testing Formik forms with Material UI Components.
 
+![Formik Form with MUI](/Formik-Form/public/formikForm.PNG)
+
 
 ## Available Scripts
 
