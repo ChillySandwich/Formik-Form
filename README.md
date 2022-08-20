@@ -2,7 +2,7 @@
 
 Code Repository for testing Formik forms with Material UI Components.
 
-![Formik Form with MUI](/Formik-Form/blob/master/public/formikForm.PNG)
+![Formik Form with MUI](https://github.com/ChillySandwich/Formik-Form/blob/master/public/formikForm.PNG)
 
 
 ## Available Scripts
